@@ -1,2 +1,0 @@
-# safelinkrandom
-Safelink Random Artikel
